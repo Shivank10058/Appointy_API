@@ -1,1 +1,1 @@
-# Appointy_API
+# Ingo
